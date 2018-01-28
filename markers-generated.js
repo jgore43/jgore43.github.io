@@ -8,7 +8,9 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "showDefault" : true,
     "markers" : {
       "myworld" : [
+        {"pos": [121,264,67], "title": "These Are not the horses you are looking for", "text": "These Are not the horses you are looking for", },
         {"pos": [122,289,73], "title": "The Gloom Factory", "text": "The Gloom Factory", },
+        {"pos": [119,604,84], "title": "SwampTown Metro Station", "text": "SwampTown Metro Station", },
       ],
     },
   },
