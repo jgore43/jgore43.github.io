@@ -3,7 +3,7 @@ var CONFIG = {
     "map_myworld_topdown_day": {
       "imageFormat": "png",
       "lastRendered": [
-        1518584401,
+        1518670801,
         0,
         0,
         0
